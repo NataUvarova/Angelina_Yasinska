@@ -1,0 +1,42 @@
+body{
+  font-family: sans-serif;
+  background-color: #074f11;
+  color:white;
+  
+}
+
+/*Зроби цей сайт красивим 😉*/
+header{
+    border-bottom:1px solid gold;
+    padding:20px;
+}
+img{
+    width:400px;
+}
+h1,h3{
+    text-align: center;
+}
+nav{
+    text-align: center;
+     padding:10px;
+   
+    
+}
+
+a {
+    color:gold;
+    padding:10px;
+    font-siae:18px;
+}
+
+.first{
+    text-align: center;
+    
+}
+p{
+    font-size:20px;
+}
+footer{
+    border-top:1px solid gold;
+    padding:20px;
+}
